@@ -1,4 +1,4 @@
-package bookmark;
+package com.ffi.bookmark;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

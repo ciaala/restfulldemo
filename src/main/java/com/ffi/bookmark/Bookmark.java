@@ -1,4 +1,4 @@
-package bookmark;
+package com.ffi.bookmark;
 
 /**
  * Created by crypt on 03/05/17.
